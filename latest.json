@@ -1,11 +1,13 @@
 {
   "version": "2.3.1",
-  "release_notes": "修复启动问题，优化更新流程",
-  "published_at": "2026-04-23T10:00:00Z",
+  "release_notes": "新增更新功能",
+  "published_at": "2026-04-22T21:37:31Z",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "installer_url": "https://github.com/wandan88/wangdan/releases/download/V2.3.0/wd2.3-setup.exe"
+      "installer_url": "https://github.com/wandan88/wangdan/releases/download/2.3.1/wd-2.3.1-setup.exe",
+      "size": 161875200,
+      "sha256": "3340F3DCCA6DCF911B1F59B38941D99A879411BE5DE31F0ED7B26EFDEFCC4D07"
     }
   }
 }
