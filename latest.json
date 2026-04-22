@@ -5,9 +5,7 @@
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "installer_url": "https://github.com/wandan88/wangdan/releases/download/V2.3.0/wd2.3-setup.exe",
-      "sha256": "",
-      "size": 123456789
+      "installer_url": "https://github.com/wandan88/wangdan/releases/download/v2.3.0/wd2.3-setup.exe"
     }
   }
 }
