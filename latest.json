@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "release_notes": "修复启动问题，优化更新流程",
   "published_at": "2026-04-23T10:00:00Z",
   "mandatory": false,
