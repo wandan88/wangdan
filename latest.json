@@ -1,13 +1,13 @@
 {
-  "version": "2.3.1",
-  "release_notes": "新增更新功能",
-  "published_at": "2026-04-22T21:37:31Z",
+  "version": "2.3.2",
+  "release_notes": "新增瑞吉功能",
+  "published_at": "2026-04-24T21:16:10Z",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "installer_url": "https://github.com/wandan88/wangdan/releases/download/2.3.1/wd-2.3.1-setup.exe",
-      "size": 161875200,
-      "sha256": "3340F3DCCA6DCF911B1F59B38941D99A879411BE5DE31F0ED7B26EFDEFCC4D07"
+      "installer_url": "https://github.com/wandan88/wangdan/releases/download/2.3.2/cf-2.3.2-setup.exe",
+      "size": 163144570,
+      "sha256": "74af3c2c3d64ffe975766f26dee444569ee3b62119d93a138346a749f6bc0c68"
     }
   }
 }
