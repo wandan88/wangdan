@@ -5,7 +5,7 @@
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "installer_url": "https://github.com/wandan88/wangdan/releases/download/2.3.2/cf-2.3.2-setup.exe",
+      "installer_url": "https://github.com/wandan88/wangdan/releases/download/2.3.3/cf-2.3.3-setup.exe",
       "size": 149748111,
       "sha256": "C4ADB58A4359C605BA2F4305C11C52CE04307882FCBAB3691886D0B8C9E9EBFC"
     }
