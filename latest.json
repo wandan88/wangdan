@@ -1,13 +1,13 @@
 {
-  "version": "2.3.2",
-  "release_notes": "新增瑞吉功能",
-  "published_at": "2026-04-24T21:16:10Z",
+  "version": "2.3.3",
+  "release_notes": "新增安豪",
+  "published_at": "2026-05-20T15:18:31Z",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
       "installer_url": "https://github.com/wandan88/wangdan/releases/download/2.3.2/cf-2.3.2-setup.exe",
-      "size": 163144570,
-      "sha256": "74af3c2c3d64ffe975766f26dee444569ee3b62119d93a138346a749f6bc0c68"
+      "size": 149748111,
+      "sha256": "C4ADB58A4359C605BA2F4305C11C52CE04307882FCBAB3691886D0B8C9E9EBFC"
     }
   }
 }
