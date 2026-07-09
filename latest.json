@@ -1,13 +1,13 @@
 {
   "version": "2.3.5",
   "release_notes": "优化体验",
-  "published_at": "2026-07-09T19:03:13Z",
+  "published_at": "2026-07-09T19:25:05Z",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
       "installer_url": "https://github.com/wandan88/wangdan/releases/download/2.3.5/cf-2.3.5-setup.exe",
-      "size": 116221271,
-      "sha256": "7F6400E3F8B2F0ACB68F9B282E68E9B203BD1B15970C41F75FFB854F1B2DC7AE"
+      "size": 112951170,
+      "sha256": "32750392DC232634E4F4CCC0B524E0746FDFF157FC5DC58A57C11CD4947629FC"
     }
   }
 }
