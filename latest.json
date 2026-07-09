@@ -1,13 +1,13 @@
 {
-  "version": "2.3.4",
-  "release_notes": "优化闪退",
-  "published_at": "2026-06-27T15:04:37Z",
+  "version": "2.3.5",
+  "release_notes": "优化体验",
+  "published_at": "2026-07-09T19:03:13Z",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "installer_url": "https://github.com/wandan88/wangdan/releases/download/2.3.4/cf-2.3.4-setup.exe",
-      "size": 160739479,
-      "sha256": "2337BD39DA0A2EC7235A4B3FB9D9BAA644D171CCD4CCECDCBB7C8CAC9DA432E5"
+      "installer_url": "https://github.com/wandan88/wangdan/releases/download/2.3.5/cf-2.3.5-setup.exe",
+      "size": 116221271,
+      "sha256": "7F6400E3F8B2F0ACB68F9B282E68E9B203BD1B15970C41F75FFB854F1B2DC7AE"
     }
   }
 }
