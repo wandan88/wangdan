@@ -1,13 +1,13 @@
 {
-  "version": "3.3.6",
+  "version": "3.0.0",
   "release_notes": "优化体验",
-  "published_at": "2026-07-16T14:35:57Z",
+  "published_at": "2026-07-16T16:26:11Z",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "installer_url": "https://github.com/wandan88/wangdan/releases/download/2.3.6/cf-2.3.6-setup.exe",
-      "size": 95028881,
-      "sha256": "0392653D6437C7DA59BE8254D16A41BC8D567257BFBC73443A19599E8EECBF91"
+      "installer_url": "https://github.com/wandan88/wangdan/releases/download/3.0.0/cf-3.0.0-setup.exe",
+      "size": 112933969,
+      "sha256": "175649D546F8DAA4F677A385708D0178256140E94E36F3B55AF718DEBD07ABA0"
     }
   }
 }
