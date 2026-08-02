@@ -1,13 +1,13 @@
 {
-  "version": "3.0.1",
-  "release_notes": "优化体验",
-  "published_at": "2026-07-23T09:49:05Z",
+  "version": "3.0.2",
+  "release_notes": "更名迅捷, 尽快升级新版本 老版本可能无法正常使用",
+  "published_at": "2026-08-02T18:20:19Z",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "installer_url": "https://github.com/wandan88/wangdan/releases/download/3/cf-3.0.1-setup.exe",
-      "size": 113002386,
-      "sha256": "1A9BB6001842521F8503D5D12EE2EC503897B69800B46ECBE8858730D22F9479"
+      "installer_url": "https://github.com/wandan88/wangdan/releases/download/3/xunjie-3.0.2-setup.exe",
+      "size": 123918369,
+      "sha256": "4048701E9A8F4EACA247F8EB3C8E3C46EE92500232DD1FA1021D99AEA6053430"
     }
   }
 }
