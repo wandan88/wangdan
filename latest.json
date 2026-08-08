@@ -1,13 +1,13 @@
 {
-  "version": "3.0.2",
-  "release_notes": "更名迅捷, 尽快升级新版本 老版本可能无法正常使用",
-  "published_at": "2026-08-02T18:20:19Z",
+  "version": "3.0.3",
+  "release_notes": "修复RM",
+  "published_at": "2026-08-08T14:07:11Z",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "installer_url": "https://github.com/wandan88/wangdan/releases/download/3/xunjie-3.0.2-setup.exe",
-      "size": 123918369,
-      "sha256": "4048701E9A8F4EACA247F8EB3C8E3C46EE92500232DD1FA1021D99AEA6053430"
+      "installer_url": "https://github.com/wandan88/wangdan/releases/download/3/xunjie-3.0.3-setup.exe",
+      "size": 127382760,
+      "sha256": "6B0FE3EC5EDD976F52A7E831F2547FAAD3F25B6E74DCFC26F95922CF05E6C63B"
     }
   }
 }
