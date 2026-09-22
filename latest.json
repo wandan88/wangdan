@@ -1,13 +1,13 @@
 {
-  "version": "3.0.4",
-  "release_notes": "修复RM，新增新版凌岳",
-  "published_at": "2026-09-16T19:53:55Z",
+  "version": "3.0.5",
+  "release_notes": "修复",
+  "published_at": "2026-09-22T18:57:37Z",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "installer_url": "https://github.com/wandan88/wangdan/releases/download/3/xunjie-3.0.4-setup.exe",
-      "size": 128944336,
-      "sha256": "013403CDE460D717BB7A256AC266D8F31A99C16CEA5EFBE17EB691CAD0125E20"
+      "installer_url": "https://github.com/wandan88/wangdan/releases/download/3/xunjie-3.0.5-setup.exe",
+      "size": 124688615,
+      "sha256": "D78366A8D4BB0EE7533B0F7DA8447B03C55F4BF7E97ADA818D4437CA8A07D676"
     }
   }
 }
