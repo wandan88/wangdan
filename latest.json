@@ -1,13 +1,13 @@
 {
-  "version": "3.0.5",
-  "release_notes": "修复",
-  "published_at": "2026-09-22T18:57:37Z",
+  "version": "3.0.6",
+  "release_notes": "新增安卓投屏，新增本地浏览器",
+  "published_at": "2026-10-11T16:13:58Z",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "installer_url": "https://github.com/wandan88/wangdan/releases/download/3/xunjie-3.0.5-setup.exe",
-      "size": 124688615,
-      "sha256": "D78366A8D4BB0EE7533B0F7DA8447B03C55F4BF7E97ADA818D4437CA8A07D676"
+      "installer_url": "https://github.com/wandan88/wangdan/releases/download/3/xunjie-3.0.6-setup.exe",
+      "size": 133312717,
+      "sha256": "A4195CF7DC92717E3C5D4D37C725BA8DA6835831D6E68A893A7AC666705F5968"
     }
   }
 }
